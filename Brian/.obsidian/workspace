@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "944b8c42a70610c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ea1063911e2e90c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "About These Notes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57a59d2a5e24d8c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "50f7769ce0c38df4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31a4a84b4063ecff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c48e6586eb427db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c612ee189f52e79",
+    "type": "split",
+    "children": [
+      {
+        "id": "204346d36ef3904a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c599829e11caffc4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "About These Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db31d90321bc60dc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "8ea1063911e2e90c",
+  "lastOpenFiles": [
+    "About These Notes.md",
+    "Slip-Box Manual.md",
+    "Resources/Templates/Note Template.md",
+    "Evergreen Note Manual.md",
+    "Bibliography/How to Take Smart Notes.md",
+    "Generator/About The Generator.md",
+    "Bibliography/About The Bibliography.md",
+    "202207071632.md",
+    "202207071621.md",
+    "202207071620 sdf.md"
+  ]
+}
