@@ -1,3 +1,3 @@
 # EthansNotes
 
-I post periodic snapshots of my Obsidian notes here for documentation purposes.
+This is a boilerplate template you can download and use for you own notes. All my settings and plugins are preconfigured. 
